@@ -1,0 +1,45 @@
+
+body {
+    background-color: #f4f6fb;
+    font-family: Arial, sans-serif;
+    color: #263238;
+}
+
+h1 {
+    color: #243b64;
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+}
+
+.card h3 {
+    color: #243b64;
+    margin-bottom: 20px;
+}
+
+.form-control {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.btn {
+    border-radius: 8px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#studentsList,
+#finalReport {
+    background-color: white;
+    padding: 20px;
+    border-radius: 12px;
+    margin-top: 15px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+#errorMessage {
+    font-weight: bold;
+}
